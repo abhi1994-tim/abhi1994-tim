@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhi1994-tim
-- 👀 I’m interested in PHP developing
-- 🌱 I’m currently learning frontend - backend
-- 💞️ I’m looking to collaborate on PHP developers and programmers
+- 👀 I’m interested in pyhton developing
+- Student at Scaler at DSML course
 - 📫 How to reach me abhijeet0920@gmail.com
 
 <!---
