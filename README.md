@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi1994-tim
 - 👀 I’m interested in pyhton developing
-- Student at Scaler at DSML course
+- Student at Scaler at DSML course (FEB 23 BATCH)
 - 📫 How to reach me abhijeet0920@gmail.com
 
 <!---
