@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhi1994-tim
-- 👀 I’m interested in pyhton developing
+- 👋 Hi, I’m Abhijeet Kumar Gupta
+- 👀 I’m interested in pyhton developing and Data Science
 - Student at Scaler at DSML course (FEB 23 BATCH)
 - 📫 How to reach me abhijeet0920@gmail.com
 
